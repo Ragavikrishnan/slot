@@ -89,7 +89,7 @@ Execute the program using runserver command.
 <th>Subject Name</th>
 </tr>
 <tr>
-<td align="center">2.</td>
+<td align="center">1.</td>
 <td align="center">19AI304</td>
 <td>FUNDAMENTALS OF C PROGRAMMING(C PROGRAME)</td>
 </tr>
@@ -104,12 +104,12 @@ Execute the program using runserver command.
 <td>FUNDAENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
 </tr>
 <tr>
-<td align="center">3.</td>
+<td align="center">4.</td>
 <td align="center">19AI414</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT(FWAD)</td>
 </tr>
 <tr>
-<td align="center">4.</td>
+<td align="center">5.</td>
 <td align="center">19CY205</td>
 <td>Principles of Chemistry in Engineering (CHE)</td>
 </tr>
@@ -121,14 +121,11 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
-
 ```
 
 ## OUTPUT
-![Screenshot (7)](https://github.com/Ragavikrishnan/slot/assets/144870428/268a3565-f1ed-4c63-9c7d-b8caf52de60a)
-![Screenshot (8)](https://github.com/Ragavikrishnan/slot/assets/144870428/b93377f7-3711-46e9-bc6d-35a35939667a)
-
+![Screenshot (11)](https://github.com/Ragavikrishnan/slot/assets/144870428/4523737a-de48-4e48-baba-a37d7dcee4e2)
+![Screenshot (12)](https://github.com/Ragavikrishnan/slot/assets/144870428/228a2e18-f0c5-4448-9fb4-60b80aa45a61)
 
 
 
